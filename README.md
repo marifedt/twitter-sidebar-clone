@@ -1,3 +1,5 @@
+# Twitter Sidebar Clone 
+
 This project aims to improve my understanding of React
 
 Components I created:
@@ -7,7 +9,7 @@ Components I created:
 
 
 
-# Things to do
+## Things to do
 
 - [ ] Make it responsive
 	- Text should disappear when width of the screen is much smaller
