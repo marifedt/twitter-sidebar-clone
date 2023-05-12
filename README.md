@@ -6,14 +6,14 @@ Components I created:
 1. Sidebar - the contents of the sidebar are flexible
 2. Button
 	- Contains an event handler for click (I recently learned it so I tried)
-
+3. Profile - React component created using ES6 class syntax.
 
 
 ## Things to do
 
 - [ ] Make it responsive
 	- Text should disappear when width of the screen is much smaller
-- [ ] Create the profile component
+- [✔] Create the profile component
 
 
 ### Notes:
