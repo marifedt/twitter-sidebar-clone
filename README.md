@@ -2,7 +2,7 @@
 
 This project aims to improve my understanding of React
 
-Components I created:
+## Components I created:
 1. Sidebar - the contents of the sidebar are flexible
 2. Button
 	- Contains an event handler for click (I recently learned it so I tried)
