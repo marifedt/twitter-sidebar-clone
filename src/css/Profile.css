@@ -1,0 +1,19 @@
+.profile-img img{
+    border: 2px solid white;
+    border-radius: 50px;
+    width: 40px;
+}
+
+.profile{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: start;
+    padding: 0 10px;
+}
+
+.profile:hover{
+    background-color: grey !important;
+    border-radius: 80px;
+}
