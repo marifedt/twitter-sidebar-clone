@@ -13,7 +13,7 @@ Components I created:
 
 - [ ] Make it responsive
 	- Text should disappear when width of the screen is much smaller
-- [✔] Create the profile component
+- [x] Create the profile component
 
 
 ### Notes:
